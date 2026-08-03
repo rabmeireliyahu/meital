@@ -3,7 +3,6 @@
   <channel>
     <title>הרבנית מיטל דאודי</title>
     <description>שיעורי אמונה וחיזוק לנשים מפי הרבנית מיטל דאודי. שלום בית וזוגיות, חינוך ילדים, אימהות, טהרת המשפחה, כוח הדיבור, השתדלות ותפילה - שיעורים מלאים - אוצר התורה.</description>
-    <itunes:summary>שיעורי אמונה וחיזוק לנשים מפי הרבנית מיטל דאודי. שלום בית וזוגיות, חינוך ילדים, אימהות, טהרת המשפחה, כוח הדיבור, השתדלות ותפילה - שיעורים מלאים - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/meital</link>
     <language>he</language>
     <itunes:author>הרבנית מיטל דאודי</itunes:author>
@@ -1011,6 +1010,15 @@
       <guid isPermaLink="false">בדרך לחתונה - שיעור חובה לכל מי שרוצה להתחתן! הרבנית מיטל דאודי.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 10:57:35 -0000</pubDate>
       <itunes:duration>00:44:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>צעד קטן שמשנה הכל - הרבנית מיטל דאודי בשיעור שישנה לך את החיים!</title>
+      <description>צעד קטן שמשנה הכל - הרבנית מיטל דאודי בשיעור שישנה לך את החיים!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-meital-shiurim/%D7%A6%D7%A2%D7%93%20%D7%A7%D7%98%D7%9F%20%D7%A9%D7%9E%D7%A9%D7%A0%D7%94%20%D7%94%D7%9B%D7%9C%20-%20%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%9E%D7%99%D7%98%D7%9C%20%D7%93%D7%90%D7%95%D7%93%D7%99%20%D7%91%D7%A9%D7%99%D7%A2%D7%95%D7%A8%20%D7%A9%D7%99%D7%A9%D7%A0%D7%94%20%D7%9C%D7%9A%20%D7%90%D7%AA%20%D7%94%D7%97%D7%99%D7%99%D7%9D%21.mp3" length="61260030" type="audio/mpeg"/>
+      <guid isPermaLink="false">צעד קטן שמשנה הכל - הרבנית מיטל דאודי בשיעור שישנה לך את החיים!.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 20:13:12 -0000</pubDate>
+      <itunes:duration>01:03:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
