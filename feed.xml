@@ -1237,5 +1237,14 @@
       <itunes:duration>01:12:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הבחירות של החיים - הרבנית מיטל דאודי ｜ מחזק ביותר!</title>
+      <description>הבחירות של החיים - הרבנית מיטל דאודי ｜ מחזק ביותר!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-meital-shiurim/%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA%20%D7%A9%D7%9C%20%D7%94%D7%97%D7%99%D7%99%D7%9D%20-%20%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%9E%D7%99%D7%98%D7%9C%20%D7%93%D7%90%D7%95%D7%93%D7%99%20%EF%BD%9C%20%D7%9E%D7%97%D7%96%D7%A7%20%D7%91%D7%99%D7%95%D7%AA%D7%A8%21.mp3" length="35905389" type="audio/mpeg"/>
+      <guid isPermaLink="false">הבחירות של החיים - הרבנית מיטל דאודי ｜ מחזק ביותר!.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 07:32:55 -0000</pubDate>
+      <itunes:duration>01:03:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
