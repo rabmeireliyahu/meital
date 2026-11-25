@@ -1309,5 +1309,14 @@
       <itunes:duration>01:00:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>לגדל ילדים ולגדול איתם - הרבנית מיטל דאודי</title>
+      <description>לגדל ילדים ולגדול איתם - הרבנית מיטל דאודי</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-meital-shiurim/%D7%9C%D7%92%D7%93%D7%9C%20%D7%99%D7%9C%D7%93%D7%99%D7%9D%20%D7%95%D7%9C%D7%92%D7%93%D7%95%D7%9C%20%D7%90%D7%99%D7%AA%D7%9D%20-%20%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%9E%D7%99%D7%98%D7%9C%20%D7%93%D7%90%D7%95%D7%93%D7%99.mp3" length="36305204" type="audio/mpeg"/>
+      <guid isPermaLink="false">לגדל ילדים ולגדול איתם - הרבנית מיטל דאודי.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 19:29:26 -0000</pubDate>
+      <itunes:duration>01:02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
